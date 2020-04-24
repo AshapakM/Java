@@ -2,7 +2,7 @@ class PrimeNumber1{
     public static void main(String[] args) {
         
         int m=0, flag=0;
-        int n = 11 ; // it is  number to be checked 
+        int n = 11 ;    // it is  number to be checked 
         m = n/2;
 
         if(n==0||n==1){
